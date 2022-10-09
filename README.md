@@ -8,9 +8,6 @@ I'm a full-stack developer specializing in building (and occasionally designing)
       <img align="center" src="https://cdn.dribbble.com/users/48223/screenshots/1887714/responsive-website-animations-copy.gif" width="400" height="300"  />
 </div> 
 
-## Know me !
-![portfolio](https://portfolio-mariana-stocco.vercel.app/)
-
-
+## **Know more about me ! [Visit my portfolio](https://portfolio-mariana-stocco.vercel.app/)
 <img src="https://portfolio-mariana-stocco.vercel.app/static/media/marca_ok.7312abb34f191c740fae.png" width="30%" height="30%"  />
 
