@@ -1,4 +1,4 @@
-![portada](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
+![portada](hhttps://media-exp1.licdn.com/dms/image/D4E16AQHzljvrl-MKiA/profile-displaybackgroundimage-shrink_350_1400/0/1665225780647?e=1671062400&v=beta&t=xrpyQygkzb7VuVz8AYI-ooKGU3zvE5u6NnuiiDn2AqM)
 
 # **Hello, I'm [Mariana Stocco](https://www.linkedin.com/in/mariana-stocco-36525726/)** 
 
