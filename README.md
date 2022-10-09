@@ -12,5 +12,5 @@ I'm a full-stack developer specializing in building (and occasionally designing)
 ![portfolio](https://portfolio-mariana-stocco.vercel.app/)
 
 
-<img src="https://portfolio-mariana-stocco.vercel.app/static/media/profile.879bb0f5800ab77cbc29.jpg" width="100%" height="100%"  />
+<img src="https://portfolio-mariana-stocco.vercel.app/static/media/marca_ok.7312abb34f191c740fae.png" width="30%" height="30%"  />
 
